@@ -2,10 +2,11 @@ Javian Mack
 # Project 4 — Group 6 Meeting 3 Record
 **Project:** CampusConnect — Architecture (Sprint 4)
 **Recorder:** Javian Mack
-**Date and time:** [Confirm actual meeting date/time]
+**Meeting period reported by Javian:** October 23–26, 2026  
+**Exact date and time for this meeting:** [Confirm]
 **Location/platform:** [Confirm]
 **Attendance:** [Record actual attendees]
-**Record type:** Prepared discussion notes and agenda; actual meeting not verified
+**Meeting occurrence:** User reports Group 6 held three meetings during October 23–26, 2026. Specific meeting date, attendance and decisions still require confirmation.
 
 ## Meeting 3 — Containers, integration and sprint review
 ### Prepared discussion notes
@@ -29,7 +30,7 @@ Javian Mack
 - Each member: document actual meeting outcomes and progress.
 - Each member: submit their own GitHub repository link through GeorgiaVIEW.
 
-### Actual meeting details — complete after the meeting
+### Actual meeting details — verify against meeting recollections
 - **What members actually discussed:** [Enter discussion summary]
 - **Progress reported by Javian:** [Enter]
 - **Progress reported by Demetric:** [Enter]
@@ -38,4 +39,4 @@ Javian Mack
 - **Blockers:** [Enter]
 - **Next meeting date/time:** [Enter]
 
-**Verification note:** Content above is a prepared outline based on existing CampusConnect documentation. It is not evidence the team met or agreed to the proposed actions.
+**Verification note:** Javian reports that the meetings occurred during October 23–26, 2026. Prepared discussion notes are not a verified transcript, and attendance, exact date/time, progress reports, and decisions must be confirmed before these records are presented as finalized minutes.
