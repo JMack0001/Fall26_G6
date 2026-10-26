@@ -1,41 +1,41 @@
 Javian Mack
-# Group 6 — Project 4 Meeting 1 Minutes
-**Application:** CampusConnect
-**Sprint:** 4
+# Project 4 — Group 6 Meeting 1 Record
+**Project:** CampusConnect — Architecture (Sprint 4)
 **Recorder:** Javian Mack
-**Meeting date and time:** [Enter actual date and time]
-**Location or meeting platform:** [Enter location]
-**Members present:** [Record actual attendance: Javian Mack, Demetric Noble, Justine Williams, as applicable]
-**Meeting status:** TEMPLATE — not yet verified as held
+**Date and time:** [Confirm actual meeting date/time]
+**Location/platform:** [Confirm]
+**Attendance:** [Record actual attendees]
+**Record type:** Prepared discussion notes and agenda; actual meeting not verified
 
-## Agenda
-Architecture, three templates (layered, client-server, microservices), cloud-based software, Docker, images, containers, Docker daemon.
+## Meeting 1 — Architecture and cloud-based software
+### Prepared discussion notes
+1. Software architecture describes the major parts of an application and how they communicate. Three common architecture patterns for comparison are layered (three-tier), client-server, and microservices.
+2. Proposed CampusConnect architecture: browser-based React/TypeScript frontend, Node.js/Express API backend, and shared PostgreSQL database. This design suits the three agreed feature packages.
+3. Cloud-based software is accessed over the Internet and hosted on remote infrastructure. Docker packages applications with dependencies as images; a container runs an image, and the Docker daemon manages containers and images.
+4. Suggested deployment: frontend and backend in separate Docker containers, persistent PostgreSQL as a managed cloud service or a separate development container.
 
-## Discussion notes — complete after the meeting
-**Planned discussion:** Architecture, three templates (layered, client-server, microservices), cloud-based software, Docker, images, containers, Docker daemon.
-**What was actually discussed:** [Record the team's comments, questions, and agreed decisions here.]
-**Architecture choice or change:** [Write the actual decision; proposed architecture is React frontend, Express API, shared PostgreSQL.]
-**Blockers identified:** [Record blockers, or write None if none.]
-
-## Product backlog
+### Product Backlog Items
 | PBI | Status | Sprint | Estimate | Assigned | Reviewer |
 | --- | --- | --- | --- | --- | --- |
-| Cloud container architecture | Drafted; needs review | 4 | 1 day | Javian Mack | Demetric Noble |
-| Event Listings component and events table | Drafted; needs review | 4 | 2 days | Javian Mack | Justine Williams |
-| Academic Resources component and table | Proposed | 4 | 2 days | Demetric Noble | Javian Mack |
-| Notification component and table | Proposed | 4 | 2 days | Justine Williams | Demetric Noble |
-| Integration and database relationship review | Proposed | 4 | 1 day | All members | All members |
-| Record three meetings and submit repo | Pending | 4 | 3 meetings | All members | All members |
+| Cloud architecture and container description | Drafted, pending review | 4 | 1 day | Javian Mack | Demetric Noble |
+| Event Listings component and events table | Drafted, pending review | 4 | 2 days | Javian Mack | Justine Williams |
+| Academic Resources component and resources table | Proposed | 4 | 2 days | Demetric Noble | Javian Mack |
+| Notification component and notifications table | Proposed | 4 | 2 days | Justine Williams | Demetric Noble |
+| Integration and schema review | Proposed | 4 | 1 day | All members | All members |
+| Three meeting records and repository submission | In progress | 4 | 3 meetings | All members | All members |
 
-## Individual status updates — record actual reports
-- Javian Mack: [Progress on Event Listings architecture, files and events table]
-- Demetric Noble: [Progress on Academic Resources architecture, files and resources table]
-- Justine Williams: [Progress on Notification architecture, files and notifications table]
+### Assigned follow-up actions (proposed, not yet approved)
+- Javian: document frontend/backend containers, Event Listings component, and events database table.
+- Demetric: document Academic Resources component and academic_resources table.
+- Justine: document Notifications component and notifications table.
 
-## Decisions and next actions
-**Suggested next action:** Confirm the three-tier design and responsibilities.
-**Decisions the team actually approved:** [To be filled in after meeting]
-**Action items and owners:** [Record names and deadlines confirmed in meeting]
-**Next meeting:** [Enter agreed date/time]
+### Actual meeting details — complete after the meeting
+- **What members actually discussed:** [Enter discussion summary]
+- **Progress reported by Javian:** [Enter]
+- **Progress reported by Demetric:** [Enter]
+- **Progress reported by Justine:** [Enter]
+- **Decisions approved by those present:** [Enter]
+- **Blockers:** [Enter]
+- **Next meeting date/time:** [Enter]
 
-_This is a preparatory template. Do not mark the meeting as held or invent attendance, decisions, or status updates._
+**Verification note:** Content above is a prepared outline based on existing CampusConnect documentation. It is not evidence the team met or agreed to the proposed actions.
